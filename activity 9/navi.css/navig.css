@@ -1,0 +1,26 @@
+header {
+    background-color: beige;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+h1 {
+    background-color: aqua;
+    padding: 3px;
+}
+nav {
+    background-color: lightgreen;
+    padding: 3px;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+}
+a {
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    text-transform: uppercase;
+}
